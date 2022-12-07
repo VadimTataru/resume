@@ -7,3 +7,5 @@
 - Приложение [TODO](https://github.com/VadimTataru/todolist). Карманная книжка для заметок. 
 
 - Приложение [Hammer food](https://github.com/VadimTataru/hammer_food). Тестовое задание, основной задачей которого была реализация дизайна приложения с использованием CollapsingToolbarLayout
+
+- Приложение [Mobile Shop](https://github.com/VadimTataru/effective-shop). Тестовое задание. Мультимодульный проект, представляющий собой клиент интернет-магазина цифровой техники.
